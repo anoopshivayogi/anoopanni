@@ -14,11 +14,8 @@ I'm highly skilled in Python, Java, and Cloud Technologies(AWS).
 - 💻 Worked as a Full Stack Developer for 4 years at Cisco Systems
 - 🎒 Currently, a Computer Science Graduate Student at Santa Clara University
 - ✉️ How to reach me: Drop a mail to Anoop.shivayogi@gmail.com
+<!-- ### 📈 Github Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=anoopanni&show_icons=true&theme=gotham" alt="anoopanni"/>
 
-
-### 📈 Github Stats
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=anoopanni&show_icons=true&theme=gotham" alt="anoopanni"/> -->
-
-<!-- ![Snake animation](https://github.com/ruchidhore12/ruchidhore12/blob/output/github-contribution-grid-snake.svg) -->
+ [Snake animation](https://github.com/ruchidhore12/ruchidhore12/blob/output/github-contribution-grid-snake.svg) -->
