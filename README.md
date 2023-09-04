@@ -1,8 +1,8 @@
 ### Hello, I am Anoop!
 
-<a href="https://www.linkedin.com/in/anoop-shivayogi/">
+<!-- <a href="https://www.linkedin.com/in/anoop-shivayogi/">
     <img align="left" alt="Anoop Shivayogi | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
+</a> -->
 
 <br />
 <hr>
